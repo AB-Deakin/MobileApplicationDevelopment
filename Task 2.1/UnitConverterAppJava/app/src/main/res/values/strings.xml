@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Unit Converter App</string>
+    <string name="unit_converter">Unit Converter App</string>
+    <string name="enter_value">Enter Value To Convert</string>
+    <string name="convert">Convert Units</string>
+    <string name="result">Result</string>
+    <string name="inv">Invalid Conversion</string>
+
+    <string-array name="unitTypes">
+        <item>Kilometre</item>
+        <item>Centimetre</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
